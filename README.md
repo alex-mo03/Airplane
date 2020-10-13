@@ -10,6 +10,10 @@ As the 20th century drew to a close, Lockheed's L-1011 was the first to go, desp
 
 It became clear that these trijets were doomed not too long after their release. They did not have the range or capacity of the infamous Boeing 747, and did not have the efficiency of the Boeing 767 and 757, which were more efficient and flew many of the same routes, albeit with less capacity. ETOPS played a role in keeping these trijets competitive just a little longer by restricting the twin-engined 767 and 757 from flying over the Atlantic (or any water for mor e than a length of time) in case of emergency (even though they easily had the range to do so). Three and four-engined jets can lose an engine and still have more than 50 percent thrust remaining. 
 
+<img src="images/JAL 743.jpg">
+
+**Lose one engine = 75% power left**
+
 The introduction of the Boeing 777 was the nail in the coffin. With the elimination of ETOPS in its original form, it could fly domestic and transatlantic routes (later transpacific as well) with the same capacity and better efficiency. The 777 killed the Airbus A340 as well for the exact same reasons. 
 
 ## The Turn of the Century
